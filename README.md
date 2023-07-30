@@ -30,6 +30,7 @@ pip install Flask
 4. Run the Flask development server:
 
 ```
+export FLASK_APP=app.py
 flask run
 ```
 
